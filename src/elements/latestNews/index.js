@@ -43,7 +43,7 @@ const Callendar = styled.div`
 `;
 
 const ContainerDescNews = styled.div`
-    width: 100%;
+    width: 90%;
     display: flex;
     flex-direction: column;
 
@@ -89,7 +89,7 @@ const ContainerDescNews = styled.div`
 `;
 
 const Hr = styled.hr`
-    width: 600px;
+    width: 550px;
     border: 1px dashed;
     height: 0px;
     margin-top: 20px;
