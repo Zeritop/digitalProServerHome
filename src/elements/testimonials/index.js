@@ -10,6 +10,7 @@ const Testimonial = styled.div`
     background-color: #9b9b9b;
     padding-top: 20px;
     padding-left: 10px;
+    margin-left: 10px;
 `;
 
 const DiseñoTestimonial = styled.div`
@@ -18,7 +19,8 @@ const DiseñoTestimonial = styled.div`
     border-right: 15px solid #313131;
     border-top: 15px solid #313131;
     border-left: 15px solid transparent;
-    border-bottom: 15px solid transparent;  
+    border-bottom: 15px solid transparent;
+    margin-left: 10px;
 `;
 
 const TextoTestimonial = styled.div`

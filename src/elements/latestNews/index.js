@@ -77,7 +77,7 @@ const ContainerDescNews = styled.div`
     }
 
     div:nth-child(2){
-        width: 500px;
+        width: 450px;
         height: 58px;
         font-size: 14px;
         line-height: 20px;
@@ -89,7 +89,7 @@ const ContainerDescNews = styled.div`
 `;
 
 const Hr = styled.hr`
-    width: 550px;
+    width: 500px;
     border: 1px dashed;
     height: 0px;
     margin-top: 20px;
